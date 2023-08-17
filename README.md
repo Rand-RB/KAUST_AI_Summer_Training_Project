@@ -56,11 +56,23 @@ In addition, the loss function is used to determine how far an algorithm is from
 
 
 ## Examples
-
-- 
+The following are some examples of the output:
+- Damage Detection
+  ![](Images/DamageDetection.jpeg)
+- Culpability Detection Decision making System
+  ![](Images/CulpabilityDetection.jpeg)
 
 
 ## Results
+
+The following figure illustrates the outcomes derived from the eval-
+uation metrics applied to the model subsequent to its train-
+ing across 25 epochs. The mean Average Precision (mAP)
+yielded a value of 30%, precision achieved 26.4%, and re-
+call 39.3%. As mention in Evaluation metrics section, the
+metrics’ performance demonstrates enhancement with in-
+creasing their values.
+![](Images/DamageDetection.jpeg)
 
 ## Acknowledgments
 Thanks are due to the supervisor [Achref Rebai](Achref Rebai github) for his guidance.
