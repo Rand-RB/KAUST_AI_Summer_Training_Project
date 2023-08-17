@@ -30,7 +30,7 @@ The first model is a pre-trained model called You Only Look Once (YOLO). We focu
 
 ## Evaluation
 Based on the following metrics, we evaluate the system to ensure that it provides accurate results. 
-- Precision : A precision measurement indicates how
+- Precision : The precision measurement indicates how
 many positive predictions were correct (true positives). This is the formula:
  $Precision=\frac{TP}{TP+FP}$
 
@@ -50,8 +50,7 @@ This is the formula:
 
 - mAP: The mean average precision calculates a score
 based on the ground-truth bounding box and the de-
-tected box. The higher the score, the better the detec-
-tion accuracy of the model. 
+tected box.Higher scores indicate better detection accuracy. 
 
 In addition, the loss function is used to determine how far an algorithm is from its expected output and how algorithms model data.
 
