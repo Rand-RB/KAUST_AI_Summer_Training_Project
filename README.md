@@ -1,6 +1,6 @@
 # Intelligent Culpability Detection System Using Computer Vision
 This project aims to automate the process of determining who is responsible for a car accident in order to reduce traffic congestion. Using computer vision, we analyze the pictures 🎑 and determine if there is any damage and how deep it is. In addition, the vehicle's position is determined. Furthermore, using a fault recognition decision-making system, we determine which vehicle is responsible for the accident🚘, as well as the mistake percentage of each vehicle.
-![](Images/Damage.png)
+![](Images/System Architectural Design.png)
 
 ## Table of Contents
 
