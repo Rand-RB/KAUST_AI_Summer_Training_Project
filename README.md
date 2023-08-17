@@ -32,20 +32,20 @@ The first model is a pre-trained model called You Only Look Once (YOLO). We focu
 Based on the following metrics, we evaluate the system to ensure that it provides accurate results. 
 - Precision : A precision measurement indicates how
 many positive predictions were correct (true positives). This is the formula:
-\\ $Precision=\frac{TP}{TP+FP}$
+\ $Precision=\frac{TP}{TP+FP}$
 
 - Recall: The recall measures how many positive cases
 were correctly predicted by the classifier, over all the
 positive cases in the data. Sometimes it is called sensi-
 tivity. This is the formula:
-\\ $Recall=\frac{TP}{TP+TN}$
+\ $Recall=\frac{TP}{TP+TN}$
 
 - F1: The F1-Score combines precision and recall. It is
 described as the harmonic mean of the two. In general,
 harmonic means are described as more suitable for ra-
 tios (such as precision and recall) than their [10]. 
 This is the formula: 
-\\ $F_{1}=\frac{\text{Precision} \times \text{Recall}}{\text{Precision} + \text{Recall}}$
+\ $F_{1}=\frac{\text{Precision} \times \text{Recall}}{\text{Precision} + \text{Recall}}$
 
 - mAP: The mean average precision calculates a score
 based on the ground-truth bounding box and the de-
