@@ -40,14 +40,14 @@ positive cases in the data. Sometimes it is called sensi-
 tivity. This is the formula:
 \\ $Recall=\frac{TP}{TP+TN}$
 
-• F1: The F1-Score combines precision and recall. It is
+- F1: The F1-Score combines precision and recall. It is
 described as the harmonic mean of the two. In general,
 harmonic means are described as more suitable for ra-
 tios (such as precision and recall) than their [10]. 
 This is the formula: 
 \\ $F_{1}=\frac{\text{Precision} \times \text{Recall}}{\text{Precision} + \text{Recall}}$
 
-• mAP: The mean average precision calculates a score
+- mAP: The mean average precision calculates a score
 based on the ground-truth bounding box and the de-
 tected box. The higher the score, the better the detec-
 tion accuracy of the model. 
@@ -76,6 +76,7 @@ creasing their values.
 
 ## Acknowledgments
 Thanks are due to the supervisor [Achref Rebai](Achref Rebai github) for his guidance.
+
 You can download the paper [here](https://example.com/paper.pdf).
 
 
