@@ -45,10 +45,10 @@ You can download the paper [here](https://example.com/paper.pdf).
 ## Contact
 Feel free to contact us with any questions or feedback:
 
-- Rand Barnawi: Rand.A.Barnawi@gmail.com
 - Hebah Soleman: Hebah.Omer@gmail.com
 - Ehab Abu-Alqumboz: Ehab.qmbz@gmail.com
 - Khadijah Baothman: KhadijahBaothman@gmail.com
+- Rand Barnawi: Rand.A.Barnawi@gmail.com
 
 
 
