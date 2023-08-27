@@ -75,8 +75,6 @@ creasing their values.
 ![](Images/Evaluation.jpeg)
 
 ## Acknowledgments
-Thanks are due to the supervisor [Achref Rebai](Achref Rebai github) for his guidance.
-
 You can download the paper [here](https://example.com/paper.pdf).
 
 
